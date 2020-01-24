@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[title matched]]>
+    </line>
+    <line>
+      <![CDATA[login completed]]>
+    </line>
+    <line>
+      <![CDATA[application closed]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="67307" started-at="2020-01-23T04:25:50Z" finished-at="2020-01-23T04:26:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="67307" started-at="2020-01-23T04:25:50Z" finished-at="2020-01-23T04:26:57Z">
+      <class name="com.hrms.testscripts.TC_001">
+        <test-method status="PASS" signature="TC_101()[pri:0, instance:com.hrms.testscripts.TC_001@1efbd816]" name="TC_101" duration-ms="67278" started-at="2020-01-23T09:55:50Z" finished-at="2020-01-23T09:56:57Z">
+          <reporter-output>
+            <line>
+              <![CDATA[title matched]]>
+            </line>
+            <line>
+              <![CDATA[login completed]]>
+            </line>
+            <line>
+              <![CDATA[application closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_101 -->
+      </class> <!-- com.hrms.testscripts.TC_001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
